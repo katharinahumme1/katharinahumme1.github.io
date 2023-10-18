@@ -1,0 +1,74 @@
+
+
+
+/* Fonts ----------------------------------------------------------------------------------------------*/ 
+
+
+h1 {
+    font-family: Red Hat Mono;
+    font-size: 50px;
+ }
+
+ p{
+    font-family: Red Hat Mono;
+    font-size: 15px;
+ }
+.über{
+    color: rgb(202, 206, 206);
+    margin-left:1400px;
+}
+.über:hover{
+    color:white;
+}
+.impressum{
+    color: rgb(202, 206, 206);
+    margin-left:1355px;
+}
+.impressum:hover{
+    color:white;
+}
+
+
+
+
+.gallery {
+    margin-left:5px;
+    margin-right: 200px;
+
+}
+.img-container{
+    display: flex;
+    align-items: top;
+    justify-content: center;
+
+    margin-bottom: 50px;
+
+}
+
+.img-title{
+    color: white;
+    margin-right: 50px;
+}
+
+.img-wrapper{
+    display: flex;
+    align-items: top;
+    justify-content: center;  
+
+    gap: 20px;
+}
+
+  /* Button------------------------------------ */
+.button{
+    background-color: rgb(39, 38, 38); 
+  color: white; 
+  border: 2px solid white;
+  border-radius: 10px;
+  font-family: Red Hat Mono;
+  font-size: 15px;
+}
+.button:hover{
+    border-color:black ;
+    color: black;
+}
+
